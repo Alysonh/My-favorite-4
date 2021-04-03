@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+h1,h2 {
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: inherit;
+    font-weight: 300;
+}
+img{
+  width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
